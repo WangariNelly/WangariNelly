@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **Airbnb Backend**
+- 👯 I’m looking to collaborate on **Open-Source Projects**
 
 - 📫 How to reach me **nellywangari30@gmail.com**
 
