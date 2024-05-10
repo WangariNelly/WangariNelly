@@ -1,6 +1,6 @@
 [![MasterHead align="centre"](https://www.shutterstock.com/image-vector/vector-sketch-cartoon-illustration-fashion-600w-1673891578.jpg)
 <h1 align="center">Hi 👋, I'm Nelly Wangari</h1>
-<h3 align="center">A passionate Backend developer from Nairobi</h3>
+<h3 align="center">A passionate Fullstack developer from Nairobi</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/vector-hand-drawn-cartoon-illustration-600w-1667747392.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangarinelly&label=Profile%20views&color=0e75b6&style=flat" alt="wangarinelly" /> </p>
