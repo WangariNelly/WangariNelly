@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **nellywangari30@gmail.com**
 
-- ⚡ Fun fact **I are truly baffled by people who don’t workout**
+- ⚡ Fun fact: **I are truly baffled by people who don’t workout**
   
-- Thoughts **If I cannot explain a program to myself, the chance of the computer getting it right is pretty small**
+- Thoughts: **If I cannot explain a program to myself, the chance of the computer getting it right is pretty small**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
