@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **nellywangari30@gmail.com**
+- 📫 How to reach me **nellywangarikamenya@gmail.com**
 
 - ⚡ Fun fact: **I are truly baffled by people who don’t workout**
   
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nelly-wangari-b342a8128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly wangari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nelly-wangari-kamenya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly wangari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
