@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangarinelly&label=Profile%20views&color=0e75b6&style=flat" alt="wangarinelly" /> </p>
 
-- 🌱 I’m currently learning **C# .NET**
+- 🌱 I’m currently learning **Java Sping-Boot**
 
 - 📫 How to reach me **nellywangarikamenya@gmail.com**
 
